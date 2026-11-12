@@ -1,0 +1,72 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.mother-box{
+
+    height: 1000px;
+    width: 100%;
+    background-color: #f3e5d8;
+    padding-top: 80px;
+        
+    
+}
+
+.baby-box{
+    height: 800px;
+    width: 40%;
+    background-color: white;
+    margin-left: 25%;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-left: 35px;
+
+}
+
+.baby-box img{
+
+    height: 300px;
+    width: 540px;
+    border-radius: 10px;
+     
+}
+
+.text-holder{
+    height: 130px;
+    width: 540px;
+    background-color: white;
+        
+}
+
+.text-holder h1{
+    font-weight: 600;
+    font-family: young serif;
+    text-decoration: bold;
+
+}
+
+.cook-time{
+
+    height: 120px;
+    width: 540px;
+    margin-top: 10px;   
+    border-radius: 10px;
+    background-color: #FFF7FC;
+    padding-left: 15px;
+    
+
+}
+
+.cook-time h4{
+    color: purple;
+    font-size: 15px;
+
+}
+
+.cook-time h6{
+
+    font-size: 10px;
+    line-height: 20px;
+}
