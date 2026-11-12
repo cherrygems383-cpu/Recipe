@@ -6,7 +6,7 @@ box-sizing: border-box;
 
 .mother-box{
 
-    height: 1000px;
+    height: 1300px;
     width: 100%;
     background-color: #f3e5d8;
     padding-top: 80px;
@@ -15,7 +15,7 @@ box-sizing: border-box;
 }
 
 .baby-box{
-    height: 800px;
+    height: 1000px;
     width: 40%;
     background-color: white;
     margin-left: 25%;
@@ -96,4 +96,9 @@ font-weight: 100;
 .ingredients h3{
     color: #804735;
 
+}
+
+.line {
+    width: 540px;
+    border: 1px solid #E9E9E9;
 }
